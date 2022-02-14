@@ -1,10 +1,27 @@
 # Skatehanger
+
+### What is this?
 A hanger for skate sliders (+ designs for sliders)
+![Hanger1](Images/hanger_1.png)
+![Hanger2](Images/hanger_2.png)
+![Hanger3](Images/hanger_3.png)
 
 **Be aware that this is fully WIP, no tests have been conducted so far.**
 
 ### What do I need?
 The hanger f3d file contains user parameters for the kingpin distance and angle to customize in case you want to create your own size. Apart from that you need the step file (for the bends) and a fitting DXF for the lasercutting.
+
+### You said customize?
+Yes I did!
+You will need Fusion360 (a free license is available for individual people) and the f3d file.
+
+Go to "Modify" > "Change parameters"
+![How to customize](Images/hanger_howto1.png)
+
+Then adjust the highlighted parameters in this image
+![Change parameters](Images/hanger_howto2.png)
+
+Be aware, due to the angle the kingpin distance should be slightly (~1-2mm) bigger in the parameters than what you actually have.
 
 ### Can I sell these?
 Parts can according to the license be made for non commercial use (privately, even in bulk for friends).
